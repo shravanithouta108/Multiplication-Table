@@ -1,0 +1,24 @@
+*{
+    margin :0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+h1{
+    margin-top:40px;
+    text-align: center;
+    font-weight:bolder;   
+    font-size:40px;
+    font-style: italic;
+    color:red;
+    text-decoration: underline;
+    text-decoration-color: darkred;
+}
+
+.container{
+    padding-top:40px;
+    height:100vh;
+    font-weight:bold;
+    font-size:30px;
+    text-align: center;
+}
