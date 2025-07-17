@@ -7,19 +7,19 @@ A simple JavaScript project that prompts the user to enter a number and generate
 - User-friendly prompts to collect input
 - Validates user input to ensure only numbers are accepted
 - Displays the multiplication table dynamically on the page
-- Highlights the start and end of the table with styled separators
-
-## 📸 Preview 
-
-<img src="preview-prompt1.jpg">
-<img src="preview-prompt2.jpg">
-<img src="preview-output.jpg">
-
+- Highlights the start and end of the table with styled separators.
+  
 ## 🛠️ Technologies Used
 
 - HTML
 - JavaScript (Vanilla)
 - CSS
+  
+## 📸 Preview 
+
+<img src="preview-prompt1.jpg">
+<img src="preview-prompt2.jpg">
+<img src="preview-output.jpg">
 
 ## 📦 How to Run
 
@@ -36,22 +36,20 @@ cd Multiplication-Table
 
 You can also double-click the file or drag it into a browser window.
 
-
-
 ## ✏️ Code Overview
 
 The script:
 
-Prompts the user for a base number (n) and an end number (m)
+- Prompts the user for a base number (n) and an end number (m)
 
-Repeats prompts if input is invalid
+- Repeats prompts if input is invalid
 
-Dynamically writes the multiplication table using document.write()
+- Dynamically writes the multiplication table using document.write()
 
 
 ## 🧪 Sample Input/Output
 
-Enter which table you want: 7
+Enter which table you want: 7 <br>
 Enter till which number you want to end the table: 10
 
 Output:
